@@ -1,0 +1,20 @@
+.heading{
+    margin-left:2rem;
+}
+
+button{
+  margin-left: 9rem;
+  border-radius: 5rem;
+  background-color: black;
+  color: white;
+}
+
+.para{
+  margin-left:4rem;
+  width:20rem;
+  height:3rem;
+  border:1px solid;
+  padding:1rem;
+  background-color: black;
+  color:white;
+}
